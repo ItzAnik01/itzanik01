@@ -22,8 +22,8 @@ I enjoy learning new technologies and turning ideas into working applications.
 * 💻 Interested in **Web Development & Software Development**
 * 🌱 Currently learning and improving my development skills
 * 🛠️ I build projects to learn and experiment with new technologies
-* 📂 Check out my projects on my **[Portfolio](https://itzanik01.github.io/portfolio/)**
-* 📸 I also share photography and captures on **[Instagram – Anik Captures](https://www.instagram.com/anikcapturesofficial)**
+* 📂 Explore my projects on my **[Portfolio](https://itzanik01.github.io/portfolio/)**
+* 📸 I share photography and captures on **[Instagram – Anik Captures](https://www.instagram.com/anikcapturesofficial)**
 
 ---
 
@@ -68,13 +68,13 @@ I enjoy learning new technologies and turning ideas into working applications.
 
 <p align="center">
   <a href="https://itzanik01.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.instagram.com/anikcapturesofficial">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Anik%20Captures-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/ItzAnik01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-ItzAnik01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -83,12 +83,12 @@ I enjoy learning new technologies and turning ideas into working applications.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzanik01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Anik's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzanik01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzanik01&theme=tokyonight" alt="Anik's GitHub Statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzanik01&theme=tokyonight" alt="Anik's Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itzanik01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=itzanik01&theme=tokyonight&hide_border=true" alt="Anik's GitHub Streak"/>
 </p>
 
 ---
