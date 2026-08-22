@@ -1,169 +1,110 @@
 # 👋 Hi, I'm Anik Ghosh
 
-### 💻 B.Tech CSE Student | Web Developer | Tech Enthusiast
+### 💻 B.Tech CSE Student at JIS University
 
-I'm **Anik Ghosh**, a Computer Science & Engineering student at **JIS University** who enjoys building websites, applications, and exploring new technologies.
+I'm a Computer Science student passionate about **web development, programming, databases, and building practical projects**.
+I enjoy learning new technologies and turning ideas into working applications.
 
-* 🎓 B.Tech in Computer Science & Engineering
-* 💻 Interested in **Web Development, Software Development & Databases**
-* 🚀 Currently learning and building new projects
-* 🌐 Check out my **[Portfolio](https://itzanik01.github.io/portfolio/)**
-* 📸 Photography: **[Instagram — @anikcapturesofficial](https://www.instagram.com/anikcapturesofficial)**
-* 💡 Always learning, experimenting & building something new
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itzanik01&label=Profile%20Views&color=0e75b6&style=flat" alt="itzanik01" />
+<p align="center">
+  <a href="https://itzanik01.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0e75b6?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.instagram.com/anikcapturesofficial">
+    <img src="https://img.shields.io/badge/📸%20Instagram-Anik%20Captures-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```text
-💻 Developer
-🎓 B.Tech CSE Student
-🌐 Web Development
-🗄️ Database & Backend
-🐍 Python & C Programming
-📸 Photography
-🛠️ Always building something...
-```
+* 🎓 B.Tech Computer Science & Engineering student
+* 💻 Interested in **Web Development & Software Development**
+* 🌱 Currently learning and improving my development skills
+* 🛠️ I build projects to learn and experiment with new technologies
+* 📂 Check out my projects on my **[Portfolio](https://itzanik01.github.io/portfolio/)**
+* 📸 I also share photography and captures on **[Instagram – Anik Captures](https://www.instagram.com/anikcapturesofficial)**
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="45" height="45"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://itzanik01.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<p align="center">
+  <a href="https://itzanik01.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.instagram.com/anikcapturesofficial" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Anik%20Captures-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/anikcapturesofficial">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/itzanik01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-itzanik01-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ItzAnik01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 💻 Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
-</p>
-
----
-
-## 🛠️ Technologies & Tools
-
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="Microsoft SQL Server"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
-</p>
-
-### 🐍 Python & Data
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-</p>
-
-### 🔧 Other Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
-</p>
-
----
-
-## 🚀 My Projects
-
-Check out my projects, experiments and development work:
-
-### 🌐 Portfolio
-
-My personal developer portfolio showcasing my projects, skills and work.
-
-👉 **[View Portfolio](https://itzanik01.github.io/portfolio/)**
-
-### 📚 More Projects
-
-Explore all my repositories on GitHub:
-
-👉 **[View All Repositories](https://github.com/itzanik01?tab=repositories)**
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzanik01&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzanik01&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itzanik01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Anik's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzanik01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itzanik01&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=itzanik01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzanik01&theme=tokyo-night&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=itzanik01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more real-world projects
-* 🌐 Improve full-stack development skills
-* 🧠 Strengthen Data Structures & Algorithms
-* ☁️ Explore cloud technologies
-* 🤝 Contribute to open-source projects
-* 📚 Keep learning and experimenting
-
----
-
-## 📸 Beyond Code
-
-When I'm not coding, I enjoy **photography** and capturing moments.
-
-📷 Follow my photography page:
-
-**[📸 @anikcapturesofficial](https://www.instagram.com/anikcapturesofficial)**
 
 ---
 
 <p align="center">
-  <b>💻 Code. Create. Learn. Repeat. 🚀</b>
+  <b>✨ Thanks for visiting my profile! ✨</b>
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  <i>Code • Learn • Build • Repeat</i>
 </p>
